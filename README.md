@@ -63,13 +63,13 @@ python --version
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/SwarnabhaSharma/monoalphabetic-substitution-cipher.git
 ```
 
 Navigate into the folder:
 
 ```
-cd your-repo-name
+cd monoalphabetic-substitution-cipher
 ```
 
 Run the script:
